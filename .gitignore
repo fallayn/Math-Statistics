@@ -1,0 +1,38 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python dependencies
+**/site-packages/
+*.so
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# Другие бинарные файлы
+*.dll
+*.exe
+
+### LaTeX временные файлы ###
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.run.xml
+
+# Папка с кэшем mypy
+.mypy_cache/
