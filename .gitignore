@@ -36,3 +36,5 @@ __pycache__/
 
 # Папка с кэшем mypy
 .mypy_cache/
+
+.DS_Store
